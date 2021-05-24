@@ -1,6 +1,6 @@
 # Car Segmentation using Genetic Programming
 
-This project is about a model for car segmentation using genetic programming for the [paper](http://silverio.net.br/heitor/publicacoes/2019/cbic19d.pdf): A Gene Expression Programming Approach for Vehicle Body Segmentation and Color Recognition.
+This project is about a model for car segmentation using genetic programming for the [paper](http://abricom.org.br/eventos/cbic2019/cbic2019-85/): A Gene Expression Programming Approach for Vehicle Body Segmentation and Color Recognition.
 
 ## Installation
 
