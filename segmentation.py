@@ -30,7 +30,7 @@ fgbg = cv2.createBackgroundSubtractorMOG2(
     varThreshold=2,
     detectShadows=False)
 
-#Plotar Gráfico
+#Plotar Grafico
 def plot_log_curves(logbook):
 
     gen = logbook.select("gen")
